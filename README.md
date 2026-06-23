@@ -21,3 +21,7 @@ I'm drawn to mobile development, AI/ML, and systems programming. Outside of code
 ## 📫 Let's connect
 
 Feel free to reach out on [LinkedIn](https://linkedin.com/in/aleksa-tomasevic-5a5798272) — always open to interesting conversations and opportunities.
+
+## 🌱 What I'm exploring
+
+Currently diving into AI/ML and figuring out how to apply it to something I'm actually building — either a mobile app or an 8-bit style game. Still in the early ideation phase, but that's usually where the interesting stuff starts.
