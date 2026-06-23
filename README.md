@@ -8,7 +8,7 @@ I'm a recent Computer Science graduate from ASU with a curiosity for how technol
 
 ## 🛠️ Languages & Tools
 
-`C#` `Java` `Kotlin` `C++` `C` `SQL` `Linux`
+`C#` `Java` `Kotlin` `C++` `C` `SQL` `Linux` `Python`
 
 ## 💼 Experience
 
