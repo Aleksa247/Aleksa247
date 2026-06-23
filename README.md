@@ -12,7 +12,7 @@ I'm a recent Computer Science graduate from ASU with a curiosity for how technol
 
 ## 💼 Experience
 
-During my senior capstone at ASU, I worked with PiperLLC on a real-world mobile development project — contributing to the full development cycle from design to deployment using Kotlin and Android tooling.
+During my senior capstone at ASU, I partnered with PiperLLC as part of a 5-person team to build a golf cart ride-sharing app for the Scottsdale, Arizona area. I contributed across the full development cycle — from initial design through deployment — using Kotlin and Android tooling.
 
 ## 🎯 Interests
 
